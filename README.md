@@ -1,6 +1,6 @@
 # AD-Splunk-Detection-Lab
 
-#🛡️ Active Directory Attack Detection Lab using Splunk, Hydra & Atomic Red Team 
+## 🛡️ Active Directory Attack Detection Lab using Splunk, Hydra & Atomic Red Team 
 
 A hands-on SOC-style lab: build an AD domain, forward Sysmon & Windows event logs to Splunk, simulate attacks (Hydra brute force + Atomic Red Team), and detect the activity using Splunk queries.
 
